@@ -18,7 +18,7 @@ Sumber data: [Dicoding Dataset](https://github.com/dicodingacademy/dicoding_data
 
 Proyek ini dibuat melalui Google Colaboratory (Google Colab).
 ```
-[https://colab.research.google.com/drive/16ZtTSCnY4v9akQoj2ZrQx1CAyNQmh13y?usp=sharing](https://colab.research.google.com/drive/1JUROGxz-SEhfNDTvRKG8q3cyQFTq53E4?usp=sharing)
+https://colab.research.google.com/drive/1JUROGxz-SEhfNDTvRKG8q3cyQFTq53E4?usp=sharing
 ```
 Namun jika tidak menggunakan colab anda bisa menggunakan Jupyter Notebook, ikuti langkah setup environment dibawah ini:
 ```
@@ -37,7 +37,7 @@ pip install streamlit, pandas, joblib, scikit-learn, numpy
 | `random_forest_pipeline.joblib` | Model random forest yang digunakan untuk deploy. |
 | `requirements.txt` | File dependensi untuk menjalankan aplikasi ini. |
 | `README.md` | Dokumentasi proyek ini (file ini). |
-| `Jaya-Jaya_University_Analytics_Dashboard.png` | Preview Dashboard. |
+| `Dashboard.png` | Preview Dashboard. |
 
 ## Business Dashboard
 
